@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **Reagan1311/Reagan1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My stats](https://github-readme-stats.vercel.app/api?username=Reagan1311&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
